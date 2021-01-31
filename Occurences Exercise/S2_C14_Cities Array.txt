@@ -1,0 +1,16 @@
+NSArray *citiesArr = [[NSArray alloc] initWithObjects:
+                              @"Vancouver", @"Vancouver", @"New York",
+                              @"New Delhi", @"Delta", @"Vancouver",
+                              @"Burnabu", @"Paris", @"Dubai",
+                              @"Vancouver", @"Vancouver", @"Tehran",
+                              @"Toronto", @"Shanghai", @"Sao Paolo",
+                              @"Taipei", @"Warsaw", @"Vancouver",
+                              @"Rio De Janeiro", @"Vancouver",
+                              @"Vancouver", @"Shanghai",
+                              @"New Delhi", @"Delta", @"Vancouver",
+                              @"Burnabu", @"Paris", @"Dubai",
+                              @"Vancouver", @"Vancouver", @"Tehran",
+                              @"Toronto", @"Shanghai", @"Sao Paolo",
+                              @"Taipei", @"Warsaw", @"Vancouver",
+                              @"Rio De Janeiro", @"Vancouver",
+                              @"Vancouver", @"Shanghai", nil];
