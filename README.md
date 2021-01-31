@@ -4,7 +4,7 @@ Documentation on [udemy course by Amir J](https://www.udemy.com/course/complete-
 ## Content
 1. Append Strings
 
-few way to append string on objective C
+How to append string on objective C
 
 2. Dice Exercise
 
