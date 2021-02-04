@@ -18,6 +18,10 @@ Count who have the most photos.
 
 Iterate the array and see what city repeated the most.
 
-5. Unique Words
+5. Swift User Manager
+
+Form to fill user data and submit to next screen
+
+6. Unique Words
 
 How much unique words from a paragraph.
