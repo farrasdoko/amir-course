@@ -6,9 +6,13 @@ Documentation on [udemy course by Amir J](https://www.udemy.com/course/complete-
 
 How to append string on objective C
 
+- Array Of Users
+
+Iterate the array to find specific information of specific user (Objective C)
+
 - Array Of Users Swift
 
-Filter the array to find specific information of user which name == "Bannett"
+Filter the array to find specific information of user which name == "Bennett"
 
 - Dice Exercise
 
