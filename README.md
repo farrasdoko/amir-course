@@ -6,6 +6,10 @@ Documentation on [udemy course by Amir J](https://www.udemy.com/course/complete-
 
 How to append string on objective C
 
+- Array Of Users Swift
+
+Filter the array to find specific information of user which name == "Bannett"
+
 - Dice Exercise
 
 Roll the dice 100 times and see how much each head get
